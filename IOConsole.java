@@ -10,9 +10,9 @@ public class IOConsole {
         // Buat objek console
         Console cs = System.console();
         
-        System.out.println("Nama : ");
+        System.out.print("Nama : ");
         nama = cs.readLine();       // Input nama
-        System.out.println("Usia : ");
+        System.out.print("Usia : ");
         umur = Integer.parseInt(cs.readLine());     // Input umur
         
         // Output
