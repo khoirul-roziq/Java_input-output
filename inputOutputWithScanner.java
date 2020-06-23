@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class dataMahasiswa {
+public class inputOutputWithScanner {
     
     public static void main(String[] args) {
         // Deklarasi variable
