@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class inputOutputWithScanner {
+public class IOScanner {
     
     public static void main(String[] args) {
         // Deklarasi variable
